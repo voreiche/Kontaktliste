@@ -6,6 +6,6 @@ Verwaltung von Kontakten mittels Spring Boot und MongoDB
 2. Here's our logo (hover to see the title text):
 
 Inline-style: 
-![alt text](spring_boot_initializr.tiff "Spring Boot Initializr")
+![alt text](spring_boot_initialzr.tiff "Spring Boot Initializr")
 
 
