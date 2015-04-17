@@ -12,11 +12,12 @@ Dieses Zip-Archiv kann dann in einem beliebigen Verzeichnis entpackt und in eine
 ![alt text](spring_boot_initialzr_generate_project_button.tiff "Projekt erstellen")
 [demo.zip](demo.zip).
 
-1.3 Zip-Archiv herunterladen und den Inhalt des demo-Verzeichnisses auspacken.
+1.3 In Eclipse über "Import Existing Maven Project" das Projekt importieren
+![alt text](eclips_import_maven_project.tiff "Maven Projekt importieren")
+
+1.4 Zip-Archiv herunterladen und den Inhalt des demo-Verzeichnisses auspacken.
 ![alt text](eclipse_project_layout.tiff "Verzeichnisstruktur")
 
-1.4 In Eclipse über "Import Existing Maven Project" das Projekt importieren
-![alt text](eclips_import_maven_project.tiff "Maven Projekt importieren")
 
 
 
