@@ -10,5 +10,5 @@ Dieses Zip-Archiv kann dann in einem beliebigen Verzeichnis entpackt und in eine
 
 1.2 Zip-Archiv erstellen
 ![alt text](spring_boot_initialzr_generate_project_button.tiff "Projekt erstellen")
-[projekt.zip](project.zip).
+[demo.zip](demo.zip).
 
