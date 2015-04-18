@@ -8,24 +8,24 @@ Verwaltung von Kontakten mittels Spring Boot und MongoDB
 1.1 Mit dieser Webseite läßt sich ein Projektgrundgerüst bestehend aus Verzeichnisstruktur, zu verwendende Module (Spring Komponenten, Datenbanksysteme, Template-Engines, pom.xml etc.) auswählen und zu einer Zip-Datei zusammenpacken.
 Dieses Zip-Archiv kann dann in einem beliebigen Verzeichnis entpackt und in eine IDE importiert werden.
 
-1.2 Zip-Archiv erstellen
+1.2 Zip-Archiv erstellen [demo.zip](demo.zip).
+
 ![alt text](spring_boot_initialzr_generate_project_button.tiff "Projekt erstellen")
-[demo.zip](demo.zip).
 
 1.3 In Eclipse über "Import Existing Maven Project" das Projekt importieren
+
 ![alt text](eclips_import_maven_project.tiff "Maven Projekt importieren")
 
 1.4 Zip-Archiv herunterladen und den Inhalt des demo-Verzeichnisses auspacken.
+
 ![alt text](eclipse_project_layout.tiff "Verzeichnisstruktur")
 
 ##Die Maven-Projekt-Datei:
-
-```xml
-<?xml version="1.0" encoding="UTF-8"?>
+```
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-
+	
 	<groupId>de.vrsoft.springboot</groupId>
 	<artifactId>demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
@@ -82,6 +82,7 @@ Dieses Zip-Archiv kann dann in einem beliebigen Verzeichnis entpackt und in eine
 	</build>
 
 </project>
-´´´
+```
+
 
 
