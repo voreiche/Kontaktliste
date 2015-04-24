@@ -1,5 +1,5 @@
-# Kontaktliste
-Verwaltung von Kontakten mittels Spring Boot und MongoDB
+# Kontaktliste mit Zugriffskontrolle
+Verwaltung von Kontakten mittels Spring Boot und MongoDB incl. Zugriffskontrolle.
 
 ##Vorgehen
 1. Erstellen des Grundgrüsts für des Projekt mittels http://start.spring.io/.
@@ -51,6 +51,10 @@ Dieses Zip-Archiv kann dann in einem beliebigen Verzeichnis entpackt und in eine
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-actuator</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-security</artifactId>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
